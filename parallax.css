@@ -184,7 +184,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     transform: translateY(-50%) translateX(-50%); 
     z-index: -1;
 }
-
+.video_045{
+    font-size: 30px;
+    color: #00ff51;
+background-position: 50%;
+}
 
   
 
