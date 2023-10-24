@@ -20,7 +20,7 @@ header{
     list-style: none;
     display: inline-block;
     padding: 10px 50px;
-    color: rgb(7, 245, 67);
+    color: rgb(4, 4, 4);
     font-size: 20px;
     font-family: sans-serif;
     cursor: pointer;
@@ -71,8 +71,8 @@ transform: translateX(-1220px) translateY(-15px);
 }
 .seccion{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:110vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -91,17 +91,19 @@ transform: translateX(-1220px) translateY(-15px);
     font-size: 35px;
     text-align: center;
     padding: 60px 0px;
+    color: rgb(8, 249, 44);
 }
 .parrafos{
     font-size: 20px;
     padding: 20px;
     text-align: justify;
+    color: aliceblue;
 }
 /*Replicas*/
 .seccion_2{
     background: url(Imagenes/logooo000.jpg);
-    width: 100%;
-    height:110vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -111,8 +113,8 @@ transform: translateX(-1220px) translateY(-15px);
 }
 .seccion_3{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:110vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -123,8 +125,8 @@ transform: translateX(-1220px) translateY(-15px);
 
 .seccion_4{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:160vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -138,8 +140,8 @@ transform: translateX(-1220px) translateY(-15px);
 
 .seccion_5{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:160vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -154,8 +156,8 @@ transform: translateX(-1220px) translateY(-15px);
 
 .seccion_6{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:160vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -169,8 +171,8 @@ transform: translateX(-1220px) translateY(-15px);
 
 .seccion_7{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:160vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -184,8 +186,8 @@ transform: translateX(-1220px) translateY(-15px);
 
 .seccion_8{
     background: url(Imagenes/logofut.jpg);
-    width: 100%;
-    height:160vh;
+    width: 0%;
+    height:0vh;
     background-position: center;
     position: center;
     background-size: cover;
@@ -197,7 +199,16 @@ transform: translateX(-1220px) translateY(-15px);
 }
 .video_89{
     font-size: 30px;
-    color: #00ff51;
+    color: #e8efea;
+}
+.video_09{
+    position: fixed;
+    min-width: 200%;
+    min-width: 200%;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%); 
+    z-index: -1;
 }
 
 .marca{
