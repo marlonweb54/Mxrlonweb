@@ -20,14 +20,14 @@ header{
     list-style: none;
     display: inline-block;
     padding: 10px 50px;
-    color: rgb(7, 245, 67);
+    color: rgb(18, 19, 18);
     font-size: 20px;
     font-family: sans-serif;
     cursor: pointer;
 }
 .cab_nav ul li a{
     text-decoration: none;
-color: rgb(17, 15, 15);
+color: rgb(18, 19, 18);
 }
 .nomb_logo{
     width: 330px;
@@ -48,18 +48,20 @@ transform: translateX(-1220px) translateY(-15px);
 .fondo_p{
     width: 100%;
     height: 100vh;
-    background-color: #ee5522;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='25' height='25' viewBox='0 0 200 200'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='100' y1='33' x2='100' y2='-3'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='100' y1='135' x2='100' y2='97'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='%23d23d09' fill-opacity='0.44'%3E%3Crect x='100' width='100' height='100'/%3E%3Crect y='100' width='100' height='100'/%3E%3C/g%3E%3Cg fill-opacity='0.44'%3E%3Cpolygon fill='url(%23a)' points='100 30 0 0 200 0'/%3E%3Cpolygon fill='url(%23b)' points='100 100 0 130 0 100 200 100 200 130'/%3E%3C/g%3E%3C/svg%3E");
+    background: url(Imagenes/logo76.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
+
 .fondo_p h1{
-    font-size: 60px;
-    color: #000;
+    font-size: 90px;
+    color: #f90606;
+    
 }
 
 .seccion_f{
@@ -67,20 +69,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     width: 90%;
     overflow: hidden;
     margin: auto;
-    color: #000;
+    color: #000000;
     padding: 20px 0px;
 }
-.seccion{
-    background: url(Imagenes/logofut.jpg);
-    width: 0%;
-    height:0vh;
-    background-position: center;
-    position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    justify-content: center;
-    align-items: center;
-}
+
+
 .seccion h2, .seccion_1 h2, .seccion_2 h2, .seccion_3 h2, .seccion_4 h2{
     font-size: 30px;
     text-align: end;
@@ -100,39 +93,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     color: rgb(38, 190, 0);
 }
 /*Replicas*/
-.seccion_2{
-    background: url(Imagenes/logooo000.jpg);
-    width: 0%;
-    height:0vh;
-    background-position: center;
-    position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    justify-content: center;
-    align-items: center;
-}
-.seccion_3{
-   background: url(Imagenes/logofut.jpg);
-    width: 0%;
-    height:0vh;
-    background-position: center;
-    position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    justify-content: center;
-    align-items: center;
-}
-.seccion_4{
-    background: url(Imagenes/logofut.jpg);
-    width: 0%;
-    height:0vh;
-    background-position: center;
-    position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    justify-content: center;
-    align-items: center;
-}
+
+
 .logo_1{
     width: 100%;
     height:110vh;
@@ -187,7 +149,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .video_045{
     font-size: 30px;
     color: #00ff51;
-background-position: 50%;
+
 }
 
   
