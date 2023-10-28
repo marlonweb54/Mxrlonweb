@@ -45,49 +45,50 @@ position: absolute;
 transform: translateX(-1220px) translateY(-15px);
 }
 
-.fondo_p{
+.fondo_ps{
     width: 100%;
     height: 100vh;
-    background: url(Imagenes/logofut.jpg);
+    background: url(Imagenes/logo8009.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
-.fondo_p h1{
+.fondo_ps h1{
     font-size: 60px;
-    color: #000;
+    color: #f8efef;
 }
 
-.seccion_f{
+.seccion_fs{
     max-width: 1100px;
     width: 90%;
     overflow: hidden;
     margin: auto;
-    color: #000;
+    color: #f90101;
     padding: 20px 0px;
 }
 
-.seccion h2, .seccion_1 h2, .seccion_2 h2, .seccion_3 h2, .seccion_4 h2, .seccion_5 h2, .seccion_6 h2, .seccion_7 h2, .seccion_8 h2{
+.seccion_11 h2, .seccion_22 h2, .seccion_33 h2, .seccion_44 h2, .seccion_55 h2, .seccion_66 h2, .seccion_77 h2, .seccion_88 h2{
     font-size: 60px;
     text-align: center;
     padding: 400px 0px;
     
 
 }
-.titulos{
-    font-size: 35px;
+.titulos1{
+    font-size: 45px;
     text-align: center;
     padding: 60px 0px;
-    color: rgb(8, 249, 44);
+    color: rgb(2, 251, 68);
 }
-.parrafos{
+.parrafos1{
     font-size: 20px;
     padding: 20px;
     text-align: justify;
-    color: rgb(6, 125, 229);
+    color: rgb(6, 229, 54);
 }
 
 .video_89{
